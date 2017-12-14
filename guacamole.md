@@ -1,3 +1,3 @@
-# hello guacamole
+# guacamole
 - avocado
 - oranges
